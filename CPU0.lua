@@ -1,6 +1,6 @@
 -- requires
-local morseLib = require("morseLib")
-local menuLib = require("menuLib")
+local morseLib = require("morseLib.lua")
+local menuLib = require("menuLib.lua")
 
 -- memoria
 local alfabeto = {"A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z"}
